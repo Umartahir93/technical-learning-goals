@@ -3,7 +3,7 @@
 
 Following are my technical career goals for my **first 8 years**
 
-1. **Java Language **
+1. **Java Language**
 
 a. Java Core and Its Internals
 b. Java Features and Its Internals
@@ -28,7 +28,7 @@ a. Learn all testing frameworks and its Internals
 b. Write Test cases for above projects
 c. Java's necessary frameworks (Hibernate, etc) in depth.
 
-4. **Make Sure you Read all these Books **
+4. **Make Sure you Read all these Books**
 
 a. Head First Java
 b. Effective Java
