@@ -1,4 +1,4 @@
-# career-learning
+# career-tech-learning-path
 
 
 Following are my technical career goals.
@@ -226,6 +226,9 @@ Designing high scale systems (books) ✅ ❌ **(n/a)**
 Teach this on Youtube channel in the right way ✅ ❌ **(n/a)**
 
 *Feel Free to add more ✅ ❌ **(n/a)**
+
+# Reach to 100k points in Stackoverflow
+
 
 
 
