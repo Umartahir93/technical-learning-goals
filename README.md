@@ -6,6 +6,7 @@ Following are my technical career goals for my **first 8 years**
 1. **Java Language**
 
 a. Java Core and Its Internals
+
 b. Java Features and Its Internals
 c. Java Virtual Machine and Garbage Collector Internal Features
 d. Reactive Java and Its Internals
