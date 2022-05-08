@@ -1,17 +1,17 @@
-# career-goals
+# career-learning
 
 
-Following are my technical career goals for my **first 8 years**
+Following are my technical career goals.
 
 1. **Java Language**
 
-a. Java Core and Its Internals ✅ ❌ **(n/a)**
+a. Java Core and Its Internal Working ✅ ❌ **(n/a)**
 
-b. Java Features and Its Internals ✅ ❌ **(n/a)**
+b. Java Features and Its Internal Working ✅ ❌ **(n/a)**
 
 c. Java Virtual Machine and Garbage Collector Internal Features ✅ ❌ **(n/a)**
 
-d. Reactive Java and Its Internals ✅ ❌ **(n/a)**
+d. Reactive Java and Its Internal Working ✅ ❌ **(n/a)**
 
 e. Read Atleast 5 books on Java Language ✅ ❌ **(n/a)**
 
@@ -37,7 +37,7 @@ e. Deploy the project for public ✅ ❌ **(n/a)**
 
 3. **Other Frameworks of Java**
 
-a. Learn all testing frameworks and its Internals ✅ ❌ **(n/a)**
+a. Learn all testing frameworks and its Internal Working ✅ ❌ **(n/a)**
 
 b. Write Test cases for above projects ✅ ❌ **(n/a)**
 
@@ -80,7 +80,7 @@ a. Learn two/three widly used application servers in full depth ✅ ❌ **(n/a)*
 b. Create a Manual for tackling problems in app servers ✅ ❌ **(n/a)**
 
 
-6. **Create a Youtube Channel to Share Java Knowledge**
+6. **Create a Youtube Channel to Share Java Knowledge** ✅ ❌ **(n/a)**
 
 a. Share how we work in Java in Industry ✅ ❌ **(n/a)**
 
@@ -141,6 +141,8 @@ b. Read its Documentation in depth ✅ ❌ **(n/a)**
 
 c. Develop a project Using all learning of Golang ✅ ❌ **(n/a)**
 
+d. *Feel Free to add more for Golang* ✅ ❌ **(n/a)**
+
 
 12. **Share Learning of Golang on youtube** ✅ ❌ **(n/a)**
 
@@ -163,6 +165,66 @@ h. -- *Feel Free to add more for JS* -- ✅ ❌ **(n/a)**
 
 
 --------------------------------------------------- END FULL STACK JOURNEY ---------------------------------------------------
+
+
+Structured Learning For AWS Cloud ✅ ❌ **(n/a)**
+
+AWS Certification Cloud Practitioner ✅ ❌ **(n/a)**
+
+AWS Associate Developer ✅ ❌ **(n/a)**
+
+AWS Solutions Architect Professional ✅ ❌ **(n/a)**
+
+AWS Database Speciality ✅ ❌ **(n/a)**
+
+Structured Learning for Google Cloud ✅ ❌ **(n/a)**
+
+Cloud Engineer (Associate Cert) ✅ ❌ **(n/a)**
+
+Professional Cloud Developer ✅ ❌ **(n/a)**
+
+Microsoft Certified: Azure Fundamentals ✅ ❌ **(n/a)**
+
+Azure Developer Associate ✅ ❌ **(n/a)**
+
+*FEEL FREE TO ADD MORE*
+
+--------------------------------------------------- END CLOUD LEARNING ---------------------------------------------------
+
+1. Learn in depth about kubernetes ✅ ❌ **(n/a)**
+
+2. Learn two famous databases in depth ✅ ❌ **(n/a)**
+
+a. Learn its internal working, optimizing query and everything ✅ ❌ **(n/a)**
+
+3. Learn all details about Linux, shared memory and write library who can utilitze share memory of linux ✅ ❌ **(n/a)**
+
+3. *Feel free to add more market used tools* ✅ ❌ **(n/a)**
+
+--------------------------------------------------- END TOOLS LEARNING ---------------------------------------------------
+
+
+Re Learn/Revise all CS Concepts:
+
+Data Structures ✅ ❌ **(n/a)**
+
+Algorithms ✅ ❌ **(n/a)**
+
+Low level System design ✅ ❌ **(n/a)**
+
+High level System design ✅ ❌ **(n/a)**
+
+Database, advance database ✅ ❌ **(n/a)**
+
+Concurrent Programming ✅ ❌ **(n/a)**
+
+Designing high scale systems (books) ✅ ❌ **(n/a)**
+
+Teach this on Youtube channel in the right way ✅ ❌ **(n/a)**
+
+*Feel Free to add more ✅ ❌ **(n/a)**
+
+
 
 
 
