@@ -3,7 +3,7 @@
 
 Following are my technical career goals.
 
-1. **Java Language**
+# 1. **Java Language**
 
 a. Java Core and Its Internal Working ✅ ❌ **(n/a)**
 
