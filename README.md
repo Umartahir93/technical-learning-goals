@@ -22,7 +22,7 @@ g. Tune Garbage Collector and run your project. ✅ ❌ **(n/a)**
 f. Read a Book on how to write a good testable code ✅ ❌ **(n/a)**
 
 
-2. **Spring Framework**
+# 2. **Spring Framework**
 
 a. Learn Spring Core and Its Internal Working ✅ ❌ **(n/a)**
 
@@ -35,7 +35,7 @@ d. Create a project using Spring and use everything that you learned in Spring �
 e. Deploy the project for public ✅ ❌ **(n/a)**
 
 
-3. **Other Frameworks of Java**
+# 3. **Other Frameworks of Java**
 
 a. Learn all testing frameworks and its Internal Working ✅ ❌ **(n/a)**
 
@@ -44,7 +44,7 @@ b. Write Test cases for above projects ✅ ❌ **(n/a)**
 c. Java's necessary frameworks (Hibernate, etc) in depth. ✅ ❌ **(n/a)**
 
 
-4. **Make Sure you Read all these Books**
+# 4. **Make Sure you Read all these Books**
 
 a. Head First Java ✅ ❌ **(n/a)**
 
@@ -73,24 +73,24 @@ k. Hibernate Tips: More Than 70 Solutions to Common Hibernate Problems ✅ ❌ *
 l. Hibernate Recipes: a Problem-Solution Approach by Gary Mak, Srinivas Guruzu ✅ ❌ **(n/a)**
 
 
-5. **Learn Two/Three Application Servers in Detail** 
+# 5. **Learn Two/Three Application Servers in Detail** 
 
 a. Learn two/three widly used application servers in full depth ✅ ❌ **(n/a)**
 
 b. Create a Manual for tackling problems in app servers ✅ ❌ **(n/a)**
 
 
-6. **Create a Youtube Channel to Share Java Knowledge** ✅ ❌ **(n/a)**
+# 6. **Create a Youtube Channel to Share Java Knowledge** ✅ ❌ **(n/a)**
 
 a. Share how we work in Java in Industry ✅ ❌ **(n/a)**
 
 
-7. **Learn Golang**
+# 7. **Learn Golang**
 
 a. Learn Golang and its Core in more depth ✅ ❌ **(n/a)**
 
 
-8. **Read Golang Books**
+# 8. **Read Golang Books**
 
 a. The Go Programming Language (Starting with this) ✅ ❌ **(n/a)**
 
@@ -129,11 +129,11 @@ o. Build an Orchestrator in Go ✅ ❌ **(n/a)**
 p. 100 Go Mistakes and How to Avoid Them ✅ ❌ **(n/a)**
 
 
-9. **Learn Testing Frameworks For Golang** ✅ ❌ **(n/a)**
+# 9. **Learn Testing Frameworks For Golang** ✅ ❌ **(n/a)**
 
-10. **Learn ORM for Golang** ✅ ❌ **(n/a)**
+# 10. **Learn ORM for Golang** ✅ ❌ **(n/a)**
 
-11. **Learn popular Frameowrks for Golang** 
+# 11. **Learn popular Frameowrks for Golang** 
 
 a. Learn framworks ✅ ❌ **(n/a)**
 
@@ -144,9 +144,9 @@ c. Develop a project Using all learning of Golang ✅ ❌ **(n/a)**
 d. *Feel Free to add more for Golang* ✅ ❌ **(n/a)**
 
 
-12. **Share Learning of Golang on youtube** ✅ ❌ **(n/a)**
+# 13. **Share Learning of Golang on youtube** ✅ ❌ **(n/a)**
 
-12. **Learn JS**
+# 14. **Learn JS**
 
 a. Read Books for JS ✅ ❌ **(n/a)**
 
@@ -161,11 +161,12 @@ g. Create a Project using JS learning ✅ ❌ **(n/a)**
 h. -- *Feel Free to add more for JS* -- ✅ ❌ **(n/a)**
 
 
-13. **In Free time you can Learn web3 (solidity, web3js etc)** ✅ ❌ **(n/a)**
+# 15. **In Free time you can Learn web3 (solidity, web3js etc)** ✅ ❌ **(n/a)**
 
 
 --------------------------------------------------- END FULL STACK JOURNEY ---------------------------------------------------
 
+# CLOUD LEARNING
 
 Structured Learning For AWS Cloud ✅ ❌ **(n/a)**
 
@@ -191,7 +192,9 @@ Azure Developer Associate ✅ ❌ **(n/a)**
 
 --------------------------------------------------- END CLOUD LEARNING ---------------------------------------------------
 
-1. Learn in depth about kubernetes ✅ ❌ **(n/a)**
+# TOOLS LEARNING
+
+1. Learn in depth about Docker and kubernetes ✅ ❌ **(n/a)**
 
 2. Learn two famous databases in depth ✅ ❌ **(n/a)**
 
@@ -204,7 +207,7 @@ a. Learn its internal working, optimizing query and everything ✅ ❌ **(n/a)**
 --------------------------------------------------- END TOOLS LEARNING ---------------------------------------------------
 
 
-Re Learn/Revise all CS Concepts:
+# Re Learn/Revise all CS Concepts:
 
 Data Structures ✅ ❌ **(n/a)**
 
